@@ -1,0 +1,5 @@
+Characters are leaving a town to go to another town. If they take the shortcut through woods, they
+travel 1 day and are attacked that night be kobolds. If they defeat the kobolds, the hear a squeak
+and see a puff of smoke from a nearby tree that one of the kobolds climbed. They find a baby
+dragon, and if a PC makes a successful DC 15 Nature check, the dragon climbs onto their head and
+becomes an ally of the party.
