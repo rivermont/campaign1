@@ -1,0 +1,51 @@
+Lightning Lure
+Evocation Cantrip
+Casting Time: 1 action
+Range: 15 feet
+Components: V
+Duration: Instantaneous
+
+You create a lash of lightning evergy that strikes at one creature of your choice that you can see within range. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
+
+At Higher Levels:
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+
+Thunderclap
+Evocation cantrip
+Casting Time: 1 action
+Range: Self (5-foot radius)
+Components: S
+Duration: Instantaneous
+
+You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
+
+At Higher Levels:
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+
+Create Bonfire
+Conjuration cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+
+You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire’s space for the first time on a turn or ends its turn there.
+
+At Higher Levels:
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+
+Control Flames
+Transmutation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Instantaneous or 1 hour (see below)
+
+You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
+- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+- You instantaneously extinguish the flames within the cube.
+- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
+- You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
