@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GFSoftware_Project>
+  <Format>EAMFormat01</Format>
+  <EAMFormat1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <VideoInfo>
+      <wTotalSnapshots>0</wTotalSnapshots>
+      <wSnapshotsIntervalSecs>0</wSnapshotsIntervalSecs>
+      <wSnapshotCurrentRatio>1</wSnapshotCurrentRatio>
+    </VideoInfo>
+    <ChannelsOrder>
+      <long>103</long>
+      <long>101</long>
+      <long>105</long>
+      <long>107</long>
+      <long>109</long>
+    </ChannelsOrder>
+    <IDCounter>110</IDCounter>
+    <BPM>60</BPM>
+    <TimeSignature>5</TimeSignature>
+    <AudioChannelsList>
+      <AudioChannel>
+        <ID>101</ID>
+        <Name>dragon</Name>
+        <OutputID>17592186044417</OutputID>
+        <InputID>-1</InputID>
+        <OutputName>Output L-R</OutputName>
+        <InputName>-</InputName>
+        <Type>Input</Type>
+        <Pan>0</Pan>
+        <Trim>0</Trim>
+        <Volume>-12.2</Volume>
+        <VoiceRemoval>0</VoiceRemoval>
+        <ChannelHeight>62</ChannelHeight>
+        <EventsColorRGB>-14776607</EventsColorRGB>
+        <TitleColorIndex>1</TitleColorIndex>
+        <Muted>false</Muted>
+        <Solo>false</Solo>
+        <Record>false</Record>
+        <MonitorInput>false</MonitorInput>
+        <IsMusicChannel>false</IsMusicChannel>
+        <IsVideoAudio>false</IsVideoAudio>
+        <FXList>
+          <FxInfo>
+            <bypass>false</bypass>
+            <dllPath>gf:graphic eq</dllPath>
+            <displayName>Graphic EQ</displayName>
+            <effectVersion>1</effectVersion>
+            <ID>100042</ID>
+          </FxInfo>
+          <FxInfo>
+            <bypass>false</bypass>
+            <dllPath>gf:Saturation FX</dllPath>
+            <displayName>Saturation FX</displayName>
+            <effectVersion>1</effectVersion>
+            <ID>100044</ID>
+          </FxInfo>
+          <FxInfo>
+            <bypass>false</bypass>
+            <dllPath>gf:delay</dllPath>
+            <displayName>Delay</displayName>
+            <effectVersion>1</effectVersion>
+            <ID>100046</ID>
+          </FxInfo>
+        </FXList>
+        <EventsList>
+          <WaveEventClass>
+            <ID>102</ID>
+            <FilePath>C:\ProgramData\Easy audio mixer 2\Examples\Example\Audio\47_There_be_Dragons.mp3</FilePath>
+            <StartSampleMS>0</StartSampleMS>
+            <EndSampleMS>600000</EndSampleMS>
+            <Title>47_There_be_Dragons</Title>
+            <BeatPos>0</BeatPos>
+            <FadeIN_LengthBeats>0</FadeIN_LengthBeats>
+            <FadeOUT_LengthBeats>0</FadeOUT_LengthBeats>
+            <Muted>false</Muted>
+            <Gain>0</Gain>
+          </WaveEventClass>
+        </EventsList>
+        <AutomationList />
+      </AudioChannel>
+      <AudioChannel>
+        <ID>103</ID>
+        <Name>woods music</Name>
+        <OutputID>17592186044417</OutputID>
+        <InputID>-1</InputID>
+        <OutputName>Output L-R</OutputName>
+        <InputName>-</InputName>
+        <Type>Input</Type>
+        <Pan>0</Pan>
+        <Trim>-6.23899115827194</Trim>
+        <Volume>-5.9</Volume>
+        <VoiceRemoval>0</VoiceRemoval>
+        <ChannelHeight>62</ChannelHeight>
+        <EventsColorRGB>4302194</EventsColorRGB>
+        <TitleColorIndex>1</TitleColorIndex>
+        <Muted>false</Muted>
+        <Solo>false</Solo>
+        <Record>false</Record>
+        <MonitorInput>false</MonitorInput>
+        <IsMusicChannel>true</IsMusicChannel>
+        <IsVideoAudio>false</IsVideoAudio>
+        <FXList />
+        <EventsList>
+          <WaveEventClass>
+            <ID>104</ID>
+            <FilePath>C:\ProgramData\Easy audio mixer 2\Examples\Example\Audio\27_Xingu_Nights.mp3</FilePath>
+            <StartSampleMS>0</StartSampleMS>
+            <EndSampleMS>600000</EndSampleMS>
+            <Title>27_Xingu_Nights</Title>
+            <BeatPos>0</BeatPos>
+            <FadeIN_LengthBeats>0</FadeIN_LengthBeats>
+            <FadeOUT_LengthBeats>0</FadeOUT_LengthBeats>
+            <Muted>false</Muted>
+            <Gain>0</Gain>
+          </WaveEventClass>
+        </EventsList>
+        <AutomationList />
+      </AudioChannel>
+      <AudioChannel>
+        <ID>105</ID>
+        <Name>sleeping dragon</Name>
+        <OutputID>17592186044417</OutputID>
+        <InputID>-1</InputID>
+        <OutputName>Output L-R</OutputName>
+        <InputName>-</InputName>
+        <Type>Input</Type>
+        <Pan>0</Pan>
+        <Trim>0</Trim>
+        <Volume>-19.1</Volume>
+        <VoiceRemoval>0</VoiceRemoval>
+        <ChannelHeight>62</ChannelHeight>
+        <EventsColorRGB>1542794</EventsColorRGB>
+        <TitleColorIndex>1</TitleColorIndex>
+        <Muted>true</Muted>
+        <Solo>false</Solo>
+        <Record>false</Record>
+        <MonitorInput>false</MonitorInput>
+        <IsMusicChannel>true</IsMusicChannel>
+        <IsVideoAudio>false</IsVideoAudio>
+        <FXList>
+          <FxInfo>
+            <bypass>false</bypass>
+            <dllPath>gf:graphic eq</dllPath>
+            <displayName>Graphic EQ</displayName>
+            <effectVersion>1</effectVersion>
+            <ID>100056</ID>
+          </FxInfo>
+        </FXList>
+        <EventsList>
+          <WaveEventClass>
+            <ID>106</ID>
+            <FilePath>C:\ProgramData\Easy audio mixer 2\Examples\Example\Audio\71_Sleeping_Dragon.mp3</FilePath>
+            <StartSampleMS>0</StartSampleMS>
+            <EndSampleMS>600000</EndSampleMS>
+            <Title>71_Sleeping_Dragon</Title>
+            <BeatPos>0</BeatPos>
+            <FadeIN_LengthBeats>0</FadeIN_LengthBeats>
+            <FadeOUT_LengthBeats>0</FadeOUT_LengthBeats>
+            <Muted>false</Muted>
+            <Gain>0</Gain>
+          </WaveEventClass>
+        </EventsList>
+        <AutomationList />
+      </AudioChannel>
+      <AudioChannel>
+        <ID>107</ID>
+        <Name>dungeon</Name>
+        <OutputID>17592186044417</OutputID>
+        <InputID>-1</InputID>
+        <OutputName>Output L-R</OutputName>
+        <InputName>-</InputName>
+        <Type>Input</Type>
+        <Pan>0</Pan>
+        <Trim>0</Trim>
+        <Volume>-9.4</Volume>
+        <VoiceRemoval>0</VoiceRemoval>
+        <ChannelHeight>125</ChannelHeight>
+        <EventsColorRGB>-12475022</EventsColorRGB>
+        <TitleColorIndex>1</TitleColorIndex>
+        <Muted>true</Muted>
+        <Solo>false</Solo>
+        <Record>false</Record>
+        <MonitorInput>false</MonitorInput>
+        <IsMusicChannel>true</IsMusicChannel>
+        <IsVideoAudio>false</IsVideoAudio>
+        <FXList />
+        <EventsList>
+          <WaveEventClass>
+            <ID>108</ID>
+            <FilePath>C:\ProgramData\Easy audio mixer 2\Examples\Example\Audio\49_Goblin's_Cave.mp3</FilePath>
+            <StartSampleMS>0</StartSampleMS>
+            <EndSampleMS>600000</EndSampleMS>
+            <Title>49_Goblin's_Cave</Title>
+            <BeatPos>0</BeatPos>
+            <FadeIN_LengthBeats>0</FadeIN_LengthBeats>
+            <FadeOUT_LengthBeats>0</FadeOUT_LengthBeats>
+            <Muted>false</Muted>
+            <Gain>0</Gain>
+          </WaveEventClass>
+        </EventsList>
+        <AutomationList />
+      </AudioChannel>
+      <AudioChannel>
+        <ID>109</ID>
+        <Name>water dungeon</Name>
+        <OutputID>17592186044417</OutputID>
+        <InputID>-1</InputID>
+        <OutputName>Output L-R</OutputName>
+        <InputName>-</InputName>
+        <Type>Input</Type>
+        <Pan>0</Pan>
+        <Trim>0</Trim>
+        <Volume>-8.7</Volume>
+        <VoiceRemoval>0</VoiceRemoval>
+        <ChannelHeight>125</ChannelHeight>
+        <EventsColorRGB>-15234422</EventsColorRGB>
+        <TitleColorIndex>1</TitleColorIndex>
+        <Muted>true</Muted>
+        <Solo>false</Solo>
+        <Record>false</Record>
+        <MonitorInput>false</MonitorInput>
+        <IsMusicChannel>true</IsMusicChannel>
+        <IsVideoAudio>false</IsVideoAudio>
+        <FXList />
+        <EventsList>
+          <WaveEventClass>
+            <ID>110</ID>
+            <FilePath>C:\ProgramData\Easy audio mixer 2\Examples\Example\Audio\13_Cave_of_Time - 2017-7-1 0927.mp3</FilePath>
+            <StartSampleMS>0</StartSampleMS>
+            <EndSampleMS>600000</EndSampleMS>
+            <Title>13_Cave_of_Time</Title>
+            <BeatPos>0</BeatPos>
+            <FadeIN_LengthBeats>0</FadeIN_LengthBeats>
+            <FadeOUT_LengthBeats>0</FadeOUT_LengthBeats>
+            <Muted>false</Muted>
+            <Gain>0</Gain>
+          </WaveEventClass>
+        </EventsList>
+        <AutomationList />
+      </AudioChannel>
+    </AudioChannelsList>
+    <ProjectSettings>
+      <TimeSignatureViewSettingsList>
+        <TimeSignatureView>
+          <HPenBeats>1</HPenBeats>
+          <HPen2Beats>5</HPen2Beats>
+          <TSEventID>1</TSEventID>
+        </TimeSignatureView>
+      </TimeSignatureViewSettingsList>
+      <GridView>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>true</boolean>
+      </GridView>
+      <ShowBottomPanel>true</ShowBottomPanel>
+      <RecordMode>Overlap</RecordMode>
+      <RecordingCounter>1</RecordingCounter>
+      <JumpBackAfterPlayback>true</JumpBackAfterPlayback>
+    </ProjectSettings>
+    <SavePath>C:\Users\niall\Documents\DND1.eamixer</SavePath>
+    <ExportTagSettings>
+      <tagTitle>Example</tagTitle>
+      <tagArtist />
+      <tagAlbum />
+      <tagTrack />
+      <tagGenre />
+      <tagYear>2017</tagYear>
+      <tagComment />
+      <tagEncodedBy />
+      <tagBitRate>192 Kbps (Higher quality)</tagBitRate>
+    </ExportTagSettings>
+    <TrackEditorAlign>1</TrackEditorAlign>
+    <SaveFileDPI>120</SaveFileDPI>
+  </EAMFormat1>
+</GFSoftware_Project>
